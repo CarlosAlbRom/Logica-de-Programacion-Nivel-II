@@ -1,0 +1,3 @@
+Se Acabaron las Entradas? entradas_disp=0
+Aprobe la Materia? nota_final=>80
+Mi Hermano es mas Viejo que Yo? 
